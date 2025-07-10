@@ -1,0 +1,4 @@
+﻿modal>=0.56.0
+Pillow
+torch
+diffusers
